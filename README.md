@@ -39,8 +39,6 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka
 
 
 
-<p align="center">
-A estrutura desse README foi desenvolvida por <a href="https://github.com/liandro-wesley">Liandro Wesley</a>,  que me ensinou a utilizar o <a href="https://www.markdownguide.org"><strong>MARKDOWN</strong></a>
 
 
 
