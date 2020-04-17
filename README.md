@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img width="600" src="backup/logo.png" />
+    <img width="600" src="assets/ivowebpage.gif" />
 </h1>
 
 
