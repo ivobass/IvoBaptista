@@ -28,7 +28,7 @@ A Ideia surgiu com o objetivo colocar os links das minhas redes sociais numa pag
 ------------------
 [*Entre em contato comigo*](https://www.linkedin.com/in/ivo-baptista-3712144/)
 
-Obrigado por chegar até aqui! Este projeto foi feito com muito ❤
+
 
 
 
