@@ -10,10 +10,10 @@ Uma pagina com os links das minhas redes sociais
 
 📌 Minha pagina de redes sociais
 ------------------
-O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito</a>, instrutor da <a href="http://rocketseat.com.br">Rocketseat</a> e seu desenvolvimento ocorreu durante a semana OmniStack 11. A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira amigável e simples. 
+A Ideia surgiu com o objetivo colocar os links das minhas redes sociais numa pagina web de uma maneira amigável e simples. 
 
 
-<img src="assets/html5-css-javascript.PNG" >
+
 <img src="assets/html-css-javascript.jpg" >
 
 
